@@ -1,0 +1,1 @@
+Used different interaction potentials with topology 1.
